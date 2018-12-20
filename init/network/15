@@ -1,0 +1,7 @@
+Pour rerouter une adresse, il faut altérer le fichier /etc/hosts qui sert de DNS local.
+Pour cela, il s'agit de rajouter une ligne "nom_de_ladresse.suff XX.XX.XX.XX" où
+chaque XX représente un nombre entre 0 et 255 (inclus).
+
+Ainsi, muni des permissions nécessaires, on peut lancer la commande suivante:
+
+echo 'intra.42.fr 46.19.122.85' >> /etc/hosts

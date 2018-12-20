@@ -1,0 +1,2 @@
+#il peut éventuellement avoir des clef à configurer avec ssh-keygen
+ssh hostname

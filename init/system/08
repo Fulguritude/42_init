@@ -1,0 +1,1 @@
+Les clefs RSA autorisées par le protocole SSH du système se trouvent en général dans le fichier '~/.ssh/authorized_keys' sur une machine *nix, quoique cela dépend parfois de la criticalité (et donc besoins de sécurité) du système en question.

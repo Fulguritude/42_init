@@ -1,0 +1,1 @@
+Le système de gestion des tâches régulières 'cron' s'opère en éditant le fichier '/etc/crontab' selon un code spécifique. On peut aussi définir des tâches régulières en ajoutant un autre fichier crontab pour un user donné au registre des fichiers appelés régulièrement par le protocole 'cron', à l'aide de la commande "crontab /file/path.suff".
