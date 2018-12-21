@@ -1,1 +1,1 @@
-ifconfig | grep -v "	" | cut -d ":" -f1
+ifconfig -l
