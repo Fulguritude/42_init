@@ -1,1 +1,2 @@
 du -h /var/*
+#on peut aussi rajouter l'option -s pour résumer le résultat en profondeur 1.

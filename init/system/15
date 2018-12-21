@@ -1,1 +1,2 @@
 kill $(jobs -p)
+#on peut rajouter l'option -9 pour forcer la commande 'kill'

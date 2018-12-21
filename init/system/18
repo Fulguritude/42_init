@@ -1,2 +1,2 @@
-#notez que la commande suivante rrête le service SSH, mais l'utilisateur de notre système peut encore utiliser SSH en tant que client.
+#notez que la commande suivante arrête le service SSH, mais l'utilisateur de notre système peut encore utiliser SSH en tant que client.
 sudo systemctl stop ssh.service
