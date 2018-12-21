@@ -1,1 +1,1 @@
-killall -u $1
+sudo pkill -KILL -u $1
