@@ -1,2 +1,1 @@
-ifconfig
-#ip a
+ifconfig | grep -v "	" | cut -d ":" -f1

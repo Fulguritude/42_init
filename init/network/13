@@ -1,3 +1,3 @@
-La commande est './12 | xargs dig -x'.
+La commande est './12 | xargs dig -x', le résultat se trouve en fin de la "ANSWER SECTION".
 
-Son résultat est: ldap-proxy.42.fr
+Son résultat est l'adresse du poste sur lequel je me trouve (par ex: "e1r4p4.42.fr").
